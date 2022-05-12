@@ -1,0 +1,10 @@
+Esta es otra historia nueva
+
+Aqui vamos a practicar lo aprendido sobre git / aun no github
+
+La practica nos hace retener mejor el conocimiento
+
+Se aprende mejor por repeticion
+
+Agregamos una linea mas para reforzar el uso de comandos de git
+
